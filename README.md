@@ -1,4 +1,5 @@
 Movie Tracker 🎬
+
 Movie Tracker is a full-stack application that allows users to track the movies they have watched and the ones they plan to watch.
 
 Users can:
